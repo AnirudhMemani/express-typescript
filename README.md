@@ -34,7 +34,11 @@ npm run dev
 ```
 
 -   Change FolderName with the folder name containing your static assets.
+<<<<<<< HEAD
 
 ## Use JS Modules syntax
 
 -   If you want to use JS Modules syntax, change your file extension to cts from ts
+=======
+-   And un-comment the "src/pictures" line in tsconfig.json and swap "pictures" with the name of your static assets folder name
+>>>>>>> e35799ca22c8d479116234556bdffc33cdf5a0b2
