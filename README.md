@@ -34,3 +34,4 @@ npm run dev
 ```
 
 -   Change FolderName with the folder name containing your static assets.
+-   And un-comment the "src/pictures" line in tsconfig.json and swap "pictures" with the name of your static assets folder name
