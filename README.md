@@ -8,7 +8,7 @@
 git clone https://github.com/AnirudhMemani/express-typescript
 ```
 
-## Change directory into the repository
+## Change directory into the project
 
 ```
 cd express-typescript
@@ -26,11 +26,11 @@ npm install
 npm run dev
 ```
 
--   Note: If you want to server static assests to your build files add the following to package.json scripts:
+-   Note: If you want to serve static assets to your build files, add the following to package.json scripts:
 
 ```
 "copy-assets": "copyfiles --error --up 1 src/<FolderName>/*.* dist",
 "postbuild": "npm run copy-assets"
 ```
 
--   Change FolderName with the name of the folder which contains your static assests.
+-   Change FolderName with the folder name containing your static assets.
