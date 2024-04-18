@@ -34,3 +34,7 @@ npm run dev
 ```
 
 -   Change FolderName with the folder name containing your static assets.
+
+## Use JS Modules syntax
+
+-   If you want to use JS Modules syntax, change your file extension to cts from ts
